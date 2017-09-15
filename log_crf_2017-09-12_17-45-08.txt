@@ -1,0 +1,363 @@
+topk:1 correct:2185/5000 rate:0.437
+topk:3 correct:3548/5000 rate:0.7096
+topk:3 correct:3531/5000 rate:0.7062
+0%=>loss:200001.65389717655
+topk:1 correct:3102/5000 rate:0.6204
+topk:3 correct:4361/5000 rate:0.8722
+topk:3 correct:3887/5000 rate:0.7774
+0%=>loss:1.5010032871246337
+topk:1 correct:3366/5000 rate:0.6732
+topk:3 correct:4509/5000 rate:0.9018
+topk:3 correct:3915/5000 rate:0.783
+0%=>loss:1.392573128604889
+topk:1 correct:3491/5000 rate:0.6982
+topk:3 correct:4544/5000 rate:0.9088
+topk:3 correct:3981/5000 rate:0.7962
+0%=>loss:1.2826720534324647
+topk:1 correct:3494/5000 rate:0.6988
+topk:3 correct:4556/5000 rate:0.9112
+topk:3 correct:3974/5000 rate:0.7948
+0%=>loss:1.2143963317871094
+topk:1 correct:3507/5000 rate:0.7014
+topk:3 correct:4564/5000 rate:0.9128
+topk:3 correct:3988/5000 rate:0.7976
+0%=>loss:1.1714660816192628
+topk:1 correct:3566/5000 rate:0.7132
+topk:3 correct:4594/5000 rate:0.9188
+topk:3 correct:4004/5000 rate:0.8008
+0%=>loss:1.1123157024383545
+topk:1 correct:3646/5000 rate:0.7292
+topk:3 correct:4618/5000 rate:0.9236
+topk:3 correct:4030/5000 rate:0.806
+0%=>loss:1.01677911567688
+topk:1 correct:3618/5000 rate:0.7236
+topk:3 correct:4617/5000 rate:0.9234
+topk:3 correct:4010/5000 rate:0.802
+0%=>loss:0.981863918685913
+topk:1 correct:3633/5000 rate:0.7266
+topk:3 correct:4603/5000 rate:0.9206
+topk:3 correct:3998/5000 rate:0.7996
+0%=>loss:0.9197125951766968
+topk:1 correct:3575/5000 rate:0.715
+topk:3 correct:4553/5000 rate:0.9106
+topk:3 correct:3962/5000 rate:0.7924
+1%=>loss:0.9002331487655639
+topk:1 correct:3662/5000 rate:0.7324
+topk:3 correct:4615/5000 rate:0.923
+topk:3 correct:3955/5000 rate:0.791
+1%=>loss:0.8651985599517822
+topk:1 correct:3704/5000 rate:0.7408
+topk:3 correct:4644/5000 rate:0.9288
+topk:3 correct:3991/5000 rate:0.7982
+1%=>loss:0.8237317428588867
+topk:1 correct:3768/5000 rate:0.7536
+topk:3 correct:4656/5000 rate:0.9312
+topk:3 correct:3980/5000 rate:0.796
+1%=>loss:0.7863902822494507
+topk:1 correct:3723/5000 rate:0.7446
+topk:3 correct:4664/5000 rate:0.9328
+topk:3 correct:4013/5000 rate:0.8026
+1%=>loss:0.7528374872207642
+topk:1 correct:3826/5000 rate:0.7652
+topk:3 correct:4679/5000 rate:0.9358
+topk:3 correct:4028/5000 rate:0.8056
+1%=>loss:0.7067055919647217
+topk:1 correct:3775/5000 rate:0.755
+topk:3 correct:4667/5000 rate:0.9334
+topk:3 correct:3965/5000 rate:0.793
+1%=>loss:0.6851838647842408
+topk:1 correct:3817/5000 rate:0.7634
+topk:3 correct:4710/5000 rate:0.942
+topk:3 correct:3998/5000 rate:0.7996
+1%=>loss:0.6893599472045898
+topk:1 correct:3812/5000 rate:0.7624
+topk:3 correct:4669/5000 rate:0.9338
+topk:3 correct:4018/5000 rate:0.8036
+1%=>loss:0.9565966526031494
+topk:1 correct:3660/5000 rate:0.732
+topk:3 correct:4623/5000 rate:0.9246
+topk:3 correct:4047/5000 rate:0.8094
+1%=>loss:0.8982182405471801
+topk:1 correct:3738/5000 rate:0.7476
+topk:3 correct:4680/5000 rate:0.936
+topk:3 correct:4125/5000 rate:0.825
+2%=>loss:0.8429319080352783
+topk:1 correct:3742/5000 rate:0.7484
+topk:3 correct:4662/5000 rate:0.9324
+topk:3 correct:4086/5000 rate:0.8172
+2%=>loss:0.8081699234008789
+topk:1 correct:3811/5000 rate:0.7622
+topk:3 correct:4691/5000 rate:0.9382
+topk:3 correct:4052/5000 rate:0.8104
+2%=>loss:0.8159771192550659
+topk:1 correct:3804/5000 rate:0.7608
+topk:3 correct:4679/5000 rate:0.9358
+topk:3 correct:4087/5000 rate:0.8174
+2%=>loss:0.7958521509170532
+topk:1 correct:3791/5000 rate:0.7582
+topk:3 correct:4686/5000 rate:0.9372
+topk:3 correct:4104/5000 rate:0.8208
+2%=>loss:0.7516522678375244
+topk:1 correct:3815/5000 rate:0.763
+topk:3 correct:4707/5000 rate:0.9414
+topk:3 correct:4101/5000 rate:0.8202
+2%=>loss:0.7076301376342773
+topk:1 correct:3824/5000 rate:0.7648
+topk:3 correct:4710/5000 rate:0.942
+topk:3 correct:4087/5000 rate:0.8174
+2%=>loss:0.7017023609161377
+topk:1 correct:3812/5000 rate:0.7624
+topk:3 correct:4699/5000 rate:0.9398
+topk:3 correct:4088/5000 rate:0.8176
+2%=>loss:0.7011097883224487
+topk:1 correct:3929/5000 rate:0.7858
+topk:3 correct:4758/5000 rate:0.9516
+topk:3 correct:4160/5000 rate:0.832
+2%=>loss:0.6616692234039306
+topk:1 correct:3895/5000 rate:0.779
+topk:3 correct:4740/5000 rate:0.948
+topk:3 correct:4155/5000 rate:0.831
+2%=>loss:0.6331305902481079
+topk:1 correct:3930/5000 rate:0.786
+topk:3 correct:4765/5000 rate:0.953
+topk:3 correct:4164/5000 rate:0.8328
+3%=>loss:0.6087854510307312
+topk:1 correct:3903/5000 rate:0.7806
+topk:3 correct:4736/5000 rate:0.9472
+topk:3 correct:4129/5000 rate:0.8258
+3%=>loss:0.6114741539001465
+topk:1 correct:3930/5000 rate:0.786
+topk:3 correct:4759/5000 rate:0.9518
+topk:3 correct:4165/5000 rate:0.833
+3%=>loss:0.5951829650878906
+topk:1 correct:3990/5000 rate:0.798
+topk:3 correct:4755/5000 rate:0.951
+topk:3 correct:4156/5000 rate:0.8312
+3%=>loss:0.5814143804550171
+topk:1 correct:3995/5000 rate:0.799
+topk:3 correct:4779/5000 rate:0.9558
+topk:3 correct:4185/5000 rate:0.837
+3%=>loss:0.5698762107849121
+topk:1 correct:4026/5000 rate:0.8052
+topk:3 correct:4803/5000 rate:0.9606
+topk:3 correct:4174/5000 rate:0.8348
+3%=>loss:0.5775581464767456
+topk:1 correct:4042/5000 rate:0.8084
+topk:3 correct:4817/5000 rate:0.9634
+topk:3 correct:4215/5000 rate:0.843
+3%=>loss:0.5607162073135376
+topk:1 correct:4068/5000 rate:0.8136
+topk:3 correct:4818/5000 rate:0.9636
+topk:3 correct:4232/5000 rate:0.8464
+3%=>loss:0.5356719150543213
+topk:1 correct:4099/5000 rate:0.8198
+topk:3 correct:4827/5000 rate:0.9654
+topk:3 correct:4234/5000 rate:0.8468
+3%=>loss:0.5260786909103393
+topk:1 correct:4038/5000 rate:0.8076
+topk:3 correct:4791/5000 rate:0.9582
+topk:3 correct:4223/5000 rate:0.8446
+3%=>loss:0.5199859451293946
+topk:1 correct:4045/5000 rate:0.809
+topk:3 correct:4807/5000 rate:0.9614
+topk:3 correct:4226/5000 rate:0.8452
+4%=>loss:0.4867512825012207
+topk:1 correct:4112/5000 rate:0.8224
+topk:3 correct:4831/5000 rate:0.9662
+topk:3 correct:4239/5000 rate:0.8478
+4%=>loss:0.4791501482009888
+topk:1 correct:4083/5000 rate:0.8166
+topk:3 correct:4820/5000 rate:0.964
+topk:3 correct:4208/5000 rate:0.8416
+4%=>loss:0.475521213722229
+topk:1 correct:4016/5000 rate:0.8032
+topk:3 correct:4789/5000 rate:0.9578
+topk:3 correct:4189/5000 rate:0.8378
+4%=>loss:0.46326515712738037
+topk:1 correct:4076/5000 rate:0.8152
+topk:3 correct:4812/5000 rate:0.9624
+topk:3 correct:4228/5000 rate:0.8456
+4%=>loss:0.4496557569503784
+topk:1 correct:4061/5000 rate:0.8122
+topk:3 correct:4799/5000 rate:0.9598
+topk:3 correct:4234/5000 rate:0.8468
+4%=>loss:0.43528944778442386
+topk:1 correct:4052/5000 rate:0.8104
+topk:3 correct:4793/5000 rate:0.9586
+topk:3 correct:4201/5000 rate:0.8402
+4%=>loss:0.42154405975341797
+topk:1 correct:4027/5000 rate:0.8054
+topk:3 correct:4792/5000 rate:0.9584
+topk:3 correct:4207/5000 rate:0.8414
+4%=>loss:0.4207282487869263
+topk:1 correct:4063/5000 rate:0.8126
+topk:3 correct:4799/5000 rate:0.9598
+topk:3 correct:4222/5000 rate:0.8444
+4%=>loss:0.4116030815124512
+topk:1 correct:4026/5000 rate:0.8052
+topk:3 correct:4779/5000 rate:0.9558
+topk:3 correct:4190/5000 rate:0.838
+4%=>loss:0.4558996097564697
+topk:1 correct:4079/5000 rate:0.8158
+topk:3 correct:4804/5000 rate:0.9608
+topk:3 correct:4176/5000 rate:0.8352
+5%=>loss:0.4708814310073853
+topk:1 correct:4086/5000 rate:0.8172
+topk:3 correct:4828/5000 rate:0.9656
+topk:3 correct:4277/5000 rate:0.8554
+5%=>loss:0.4455191770553589
+topk:1 correct:4102/5000 rate:0.8204
+topk:3 correct:4822/5000 rate:0.9644
+topk:3 correct:4243/5000 rate:0.8486
+5%=>loss:0.4540186789512634
+topk:1 correct:4051/5000 rate:0.8102
+topk:3 correct:4800/5000 rate:0.96
+topk:3 correct:4228/5000 rate:0.8456
+5%=>loss:0.4498736316680908
+topk:1 correct:4109/5000 rate:0.8218
+topk:3 correct:4827/5000 rate:0.9654
+topk:3 correct:4285/5000 rate:0.857
+5%=>loss:0.43610066623687743
+topk:1 correct:4076/5000 rate:0.8152
+topk:3 correct:4819/5000 rate:0.9638
+topk:3 correct:4261/5000 rate:0.8522
+5%=>loss:0.42155622634887696
+topk:1 correct:4095/5000 rate:0.819
+topk:3 correct:4823/5000 rate:0.9646
+topk:3 correct:4287/5000 rate:0.8574
+5%=>loss:0.4040372707366943
+topk:1 correct:4114/5000 rate:0.8228
+topk:3 correct:4825/5000 rate:0.965
+topk:3 correct:4269/5000 rate:0.8538
+5%=>loss:0.3905512279510498
+topk:1 correct:4101/5000 rate:0.8202
+topk:3 correct:4832/5000 rate:0.9664
+topk:3 correct:4276/5000 rate:0.8552
+5%=>loss:0.396711834526062
+topk:1 correct:4121/5000 rate:0.8242
+topk:3 correct:4844/5000 rate:0.9688
+topk:3 correct:4284/5000 rate:0.8568
+5%=>loss:0.41467983169555667
+topk:1 correct:4122/5000 rate:0.8244
+topk:3 correct:4841/5000 rate:0.9682
+topk:3 correct:4301/5000 rate:0.8602
+6%=>loss:0.38659626579284667
+topk:1 correct:4137/5000 rate:0.8274
+topk:3 correct:4843/5000 rate:0.9686
+topk:3 correct:4304/5000 rate:0.8608
+6%=>loss:0.37827504844665527
+topk:1 correct:4141/5000 rate:0.8282
+topk:3 correct:4841/5000 rate:0.9682
+topk:3 correct:4298/5000 rate:0.8596
+6%=>loss:0.37506026916503904
+topk:1 correct:4121/5000 rate:0.8242
+topk:3 correct:4850/5000 rate:0.97
+topk:3 correct:4301/5000 rate:0.8602
+6%=>loss:0.38639902477264404
+topk:1 correct:4180/5000 rate:0.836
+topk:3 correct:4857/5000 rate:0.9714
+topk:3 correct:4310/5000 rate:0.862
+6%=>loss:0.36524893493652344
+topk:1 correct:4195/5000 rate:0.839
+topk:3 correct:4873/5000 rate:0.9746
+topk:3 correct:4315/5000 rate:0.863
+6%=>loss:0.3553266538619995
+topk:1 correct:4186/5000 rate:0.8372
+topk:3 correct:4868/5000 rate:0.9736
+topk:3 correct:4321/5000 rate:0.8642
+6%=>loss:0.34165362377166747
+topk:1 correct:4197/5000 rate:0.8394
+topk:3 correct:4859/5000 rate:0.9718
+topk:3 correct:4316/5000 rate:0.8632
+6%=>loss:0.34669984340667725
+topk:1 correct:4182/5000 rate:0.8364
+topk:3 correct:4868/5000 rate:0.9736
+topk:3 correct:4327/5000 rate:0.8654
+6%=>loss:0.3615421184539795
+topk:1 correct:4176/5000 rate:0.8352
+topk:3 correct:4861/5000 rate:0.9722
+topk:3 correct:4332/5000 rate:0.8664
+6%=>loss:0.3487518793106079
+topk:1 correct:4211/5000 rate:0.8422
+topk:3 correct:4875/5000 rate:0.975
+topk:3 correct:4340/5000 rate:0.868
+7%=>loss:0.34609092826843263
+topk:1 correct:4235/5000 rate:0.847
+topk:3 correct:4872/5000 rate:0.9744
+topk:3 correct:4337/5000 rate:0.8674
+7%=>loss:0.3366846851348877
+topk:1 correct:4217/5000 rate:0.8434
+topk:3 correct:4881/5000 rate:0.9762
+topk:3 correct:4328/5000 rate:0.8656
+7%=>loss:0.3304842212677002
+topk:1 correct:4223/5000 rate:0.8446
+topk:3 correct:4866/5000 rate:0.9732
+topk:3 correct:4329/5000 rate:0.8658
+7%=>loss:0.33952014293670657
+topk:1 correct:4234/5000 rate:0.8468
+topk:3 correct:4889/5000 rate:0.9778
+topk:3 correct:4343/5000 rate:0.8686
+7%=>loss:0.329820760345459
+topk:1 correct:4251/5000 rate:0.8502
+topk:3 correct:4873/5000 rate:0.9746
+topk:3 correct:4337/5000 rate:0.8674
+7%=>loss:0.32835513992309573
+topk:1 correct:4235/5000 rate:0.847
+topk:3 correct:4875/5000 rate:0.975
+topk:3 correct:4334/5000 rate:0.8668
+7%=>loss:0.32311069564819334
+topk:1 correct:4256/5000 rate:0.8512
+topk:3 correct:4881/5000 rate:0.9762
+topk:3 correct:4351/5000 rate:0.8702
+7%=>loss:0.32711009578704836
+topk:1 correct:4250/5000 rate:0.85
+topk:3 correct:4877/5000 rate:0.9754
+topk:3 correct:4355/5000 rate:0.871
+7%=>loss:0.31303519897460935
+topk:1 correct:4273/5000 rate:0.8546
+topk:3 correct:4881/5000 rate:0.9762
+topk:3 correct:4347/5000 rate:0.8694
+7%=>loss:0.3216420139312744
+topk:1 correct:4257/5000 rate:0.8514
+topk:3 correct:4882/5000 rate:0.9764
+topk:3 correct:4347/5000 rate:0.8694
+8%=>loss:0.3109051597595215
+topk:1 correct:4256/5000 rate:0.8512
+topk:3 correct:4887/5000 rate:0.9774
+topk:3 correct:4357/5000 rate:0.8714
+8%=>loss:0.3068945600509644
+topk:1 correct:4270/5000 rate:0.854
+topk:3 correct:4877/5000 rate:0.9754
+topk:3 correct:4359/5000 rate:0.8718
+8%=>loss:0.30472233238220214
+topk:1 correct:4271/5000 rate:0.8542
+topk:3 correct:4889/5000 rate:0.9778
+topk:3 correct:4350/5000 rate:0.87
+8%=>loss:0.2952829769134521
+topk:1 correct:4278/5000 rate:0.8556
+topk:3 correct:4888/5000 rate:0.9776
+topk:3 correct:4347/5000 rate:0.8694
+8%=>loss:0.30461227893829346
+topk:1 correct:4273/5000 rate:0.8546
+topk:3 correct:4897/5000 rate:0.9794
+topk:3 correct:4354/5000 rate:0.8708
+8%=>loss:0.308427180480957
+topk:1 correct:4268/5000 rate:0.8536
+topk:3 correct:4893/5000 rate:0.9786
+topk:3 correct:4363/5000 rate:0.8726
+8%=>loss:0.2939115682601929
+topk:1 correct:4265/5000 rate:0.853
+topk:3 correct:4894/5000 rate:0.9788
+topk:3 correct:4343/5000 rate:0.8686
+8%=>loss:0.30277290267944335
+topk:1 correct:4268/5000 rate:0.8536
+topk:3 correct:4903/5000 rate:0.9806
+topk:3 correct:4355/5000 rate:0.871
+8%=>loss:0.29005624771118166
+topk:1 correct:4277/5000 rate:0.8554
+topk:3 correct:4891/5000 rate:0.9782
+topk:3 correct:4356/5000 rate:0.8712
+8%=>loss:0.2937707906723023
+topk:1 correct:4288/5000 rate:0.8576
+topk:3 correct:4890/5000 rate:0.978
+topk:3 correct:4348/5000 rate:0.8696
